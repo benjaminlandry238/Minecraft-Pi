@@ -1,2 +1,2 @@
-potential-octo-shame
+Minecraft Pi edition
 ====================
